@@ -1,0 +1,4 @@
+tempPath: /tmp/gpm
+repositoryProvider: github
+repositoryOrganization: gpm-project
+defaultLanguage: go
